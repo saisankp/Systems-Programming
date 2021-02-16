@@ -1,7 +1,3 @@
-//   list_string_main.c
-//   David Gregg
-//   January 2021
-
 #include <stdio.h>
 #include <assert.h>
 #include <stdlib.h>
