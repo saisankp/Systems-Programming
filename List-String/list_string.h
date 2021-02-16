@@ -1,7 +1,3 @@
-//   list_string.h
-//   David Gregg
-//   January 2021
-
 // a node in a linked list string
 struct ls_node {
   char c;     // one character of the string
