@@ -1,9 +1,4 @@
 //   list_string.c
-//   David Gregg
-//   January 2021
-
-//Student Name: Prathamesh Sai Sankar
-//Student ID: 19314123
 
 #include <stdio.h>
 #include <assert.h>
